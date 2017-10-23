@@ -1,0 +1,16 @@
+JOB TYPE:
+=========
+Fulltime
+Temp
+Freelance
+
+DEPARTMENTS:
+============
+Accounting and Finance
+Admin and Support
+Creative and Marketing
+Fashion and Beauty
+Hospitality
+Legal Services
+Scientific and Engineering
+UX
