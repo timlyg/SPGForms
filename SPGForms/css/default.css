@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, tr, td {
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+
+td {
+    padding-left: 5px;
+    font-size: small;
+}
+
+
+.right_justified {
+    text-align: right;
+}
+
+input:valid {
+    border: 2px solid green;
+}
+
+input:invalid {
+    border: 2px solid red;
+}
+select:valid {
+    border: 2px solid green;
+}
+
+select:invalid {
+    border: 2px solid red;
+}
+
+.moneyerr, .phoneerr, #ReferenceAcquaintedYearsErr {
+    color: red;
+}
